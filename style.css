@@ -10,11 +10,23 @@
 
 .green-line {
     text-decoration-line: underline;
-    text-decoration-thickness: 3px;
+    text-decoration-thickness: 2px;
     text-decoration-color: #44FFA1;
     text-decoration-style: solid;
 }
 
-li {
-    font-family: 'Fraunces';
+.navbutton {
+  font-family: 'Manrope';
+  font-weight: 500;
+  font-size: medium;
+  color: white;
+}
+
+.navbutton:hover{
+  color: #44FFA1;
+}
+
+.workitpurple {
+    color: #24053E;
+    background-color: #24053E;
 }
