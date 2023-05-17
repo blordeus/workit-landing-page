@@ -36,6 +36,7 @@
     font-weight: 600;
     font-size: 80px;
     line-height: 80px;
+    color: #24053E;
 }
 
 .heading-medium {
@@ -43,20 +44,23 @@
     font-weight: 600;
     font-size: 56px;
     line-height: 64px;
+    color: #24053E;
 }
 
 .heading-small {
     font-family: 'Fraunces';
-    font-weight: 600;
+    font-weight: 300;
     font-size: 32px;
     line-height: 40px;
+    color: #24053E;
 }
 
-.main p {
+p {
     font-family: 'Manrope';
     font-weight: 400;
     font-size: 18px;
     line-height: 32px;
+    color: #24053E;
 }
 
 .btn-primary {
@@ -67,5 +71,15 @@
 .btn-primary:hover {
     color: #44FFA1;
     background-color: #24053E;
-    border-color: #44FFA1;
+    border: #44FFA1 1px solid;
+}
+
+
+.founder-space {
+    padding: 90px;
+    margin: auto;
+}
+
+.founder-img {
+    z-index: -1;
 }
