@@ -30,3 +30,42 @@
     color: #24053E;
     background-color: #24053E;
 }
+
+.heading-large {
+    font-family: 'Fraunces';
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 80px;
+}
+
+.heading-medium {
+    font-family: 'Fraunces';
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 64px;
+}
+
+.heading-small {
+    font-family: 'Fraunces';
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.main p {
+    font-family: 'Manrope';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+}
+
+.btn-primary {
+    color: #24053E;
+    background-color: #44FFA1;
+}
+
+.btn-primary:hover {
+    color: #44FFA1;
+    background-color: #24053E;
+    border-color: #44FFA1;
+}
