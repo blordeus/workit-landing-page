@@ -46,18 +46,18 @@
     color: #24053E;
 }
 
-.heading-medium {
+.heading-small {
     font-family: 'Fraunces';
-    font-weight: 400;
+    font-weight: 500;
     font-size: 30px;
     line-height: 64px;
     color: #24053E;
 }
 
-.heading-small {
+.heading-medium {
     font-family: 'Fraunces';
-    font-weight: 300;
-    font-size: 28px;
+    font-weight: 500;
+    font-size: 50px;
     line-height: 40px;
     color: #24053E;
 }
