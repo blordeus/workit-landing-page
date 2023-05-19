@@ -54,6 +54,10 @@
     color: #24053E;
 }
 
+.heading-small-space {
+    line-height: 44px;
+}
+
 .heading-medium {
     font-family: 'Fraunces';
     font-weight: 500;
@@ -68,6 +72,14 @@ p {
     font-size: 18px;
     line-height: 32px;
     color: #24053E;
+}
+
+.top-pad {
+    padding-top: 15px;
+}
+
+.bottom-pad {
+    padding-bottom: 15px;
 }
 
 .btn-primary {
@@ -108,26 +120,22 @@ p {
 
 .headerbg {
     background-color: #24053E;
-    padding: 30px;
-    height: fit-content;
+    padding: 10px;
 }
 
 .firstbg {
     background-color: #fcf8ff;
-    height: fit-content;
-    padding: 50px;
 }
 
 .secondbg {
     background-color: white;
-    padding: 50px;
-    height: fit-content;
+    padding-top: 50px;
+    padding-bottom: 30px;
 }
 
 .curvedbottom {
     border-bottom-left-radius: 60%;
     border-bottom-right-radius: 60%;
-    border-bottom-;
 }
 
 .resizepic {
@@ -142,5 +150,16 @@ p {
 }
 
 .phonespace {
-    transform: translateY(120px);
+    transform: translateY(20px);
+    scale: 1.4;
+}
+
+.bg-left {
+   transform: translateX(-200px);
+   scale: 1.6;
+}
+
+.bg-right {
+    transform: translateX(350px);
+    scale: 1.1;
 }
