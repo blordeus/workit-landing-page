@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-* Solution URL: [Add solution URL here](https://your-solution-url.com)
-* Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+* Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-using-materializecss-bvXAf0gtym](https://www.frontendmentor.io/solutions/responsive-landing-page-using-materializecss-bvXAf0gtym)
+* Live Site URL: [https://blordeus.github.io/workit-landing-page/](https://blordeus.github.io/workit-landing-page/)
 
 ## My process
 
