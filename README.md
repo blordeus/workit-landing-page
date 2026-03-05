@@ -66,6 +66,13 @@ Fonts imported for the project:
 }
 ```
 
+
+### Recent fixes
+
+- Fixed invalid HTML structure by adding a proper `<body>` wrapper around page content.
+- Removed invalid font stylesheet links from `index.html` and kept font loading in CSS via `@font-face`.
+- Improved responsiveness to eliminate right-edge overflow/white bar issues across desktop, tablet, and mobile breakpoints by adjusting decorative image behavior and hero image scaling.
+
 ### Continued development
 
 I want to focus on how to better implement frameworks for future projects. When researching which framework to use, I enjoyed reading about the many features and tools they offer to the developer. I believe having a better understanging of frameworks will assist with some of the more tedious aspects of coding.
