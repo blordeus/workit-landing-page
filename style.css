@@ -8,6 +8,11 @@
     src: url('./assets/fonts/manrope/Manrope-VariableFont_wght.ttf');
 }
 
+html,
+body {
+    margin: 0;
+}
+
 .green-line {
     text-decoration-line: underline;
     text-decoration-thickness: 2px;
@@ -155,11 +160,18 @@ p {
 }
 
 .bg-left {
-   transform: translateX(-200px);
+   transform: translateX(-120px);
    scale: 1.6;
 }
 
 .bg-right {
-    transform: translateX(350px);
+    transform: translateX(220px);
     scale: 1.1;
+}
+
+@media (max-width: 600px) {
+    .phonespace {
+        scale: 1;
+        max-width: 100%;
+    }
 }
